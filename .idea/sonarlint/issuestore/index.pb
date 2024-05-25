@@ -30,3 +30,7 @@ Q
 !src/Task03/ProductSearchTest.java,4\4\446673e328edf95c7661033e2b98bd59edb587ad
 T
 $src/Task03/TestAutomationSystem.java,6\0\60b252260468c5751c61a883a37a12a11fe13f38
+D
+src/Task04/Book.java,d\2\d2b7ade48e1defb5706bcf5ba6a9b1d54fd2ef41
+D
+src/Task04/Main.java,4\b\4b77436e8dae82c9901305a67a5556f246cad712
