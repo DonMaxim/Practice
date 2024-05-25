@@ -10,7 +10,7 @@ public class SmartThermostat extends IoTDevice {
 
     @Override
     public void performAction() {
-        System.out.printf("Temperature is %d\n", temperature);
+        System.out.printf("Temperature is %d on SmartTermostat %s\n", temperature, super.name);
     }
 
     public void setTemperature(int temperature) {

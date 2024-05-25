@@ -10,9 +10,11 @@ public class SmartLight extends IoTDevice {
     @Override
     public void performAction() {
         if (isOn) {
-            System.out.println("Light is On");
+            System.out.printf("Turning off SmartLight %s\n", super.name);
+            isOn = false;
         } else {
-            System.out.println("Light is Off");
+            System.out.printf("Turning on SmartLight %s\n", super.name);
+            isOn = true;
         }
     }
 }
