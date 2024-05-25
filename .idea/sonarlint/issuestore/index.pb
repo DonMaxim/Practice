@@ -20,3 +20,13 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 I
 src/Task02/IoTSystem.java,f\0\f0a5001452536c8a58cbb7daca3aefbfb94bd792
+L
+src/Task03/TestScenario.java,d\c\dc5a8696ee56385214593ffba61e803104fed1c9
+I
+src/Task03/LoginTest.java,6\f\6fe07fa7f35646d3c82527c17d3d427effa2073a
+K
+src/Task03/PaymentTest.java,2\f\2f6052639660abfb75007dab39fc426693fc5ff0
+Q
+!src/Task03/ProductSearchTest.java,4\4\446673e328edf95c7661033e2b98bd59edb587ad
+T
+$src/Task03/TestAutomationSystem.java,6\0\60b252260468c5751c61a883a37a12a11fe13f38
