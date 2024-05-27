@@ -34,3 +34,9 @@ D
 src/Task04/Book.java,d\2\d2b7ade48e1defb5706bcf5ba6a9b1d54fd2ef41
 D
 src/Task04/Main.java,4\b\4b77436e8dae82c9901305a67a5556f246cad712
+?
+src/Task05.java,1\b\1ba94ba574496cae279a7a17c46556889eaea41f
+G
+src/Task05/Student.java,e\1\e154ca0ec7a556b13a77849a399e60efa780e2d6
+D
+src/Task05/Main.java,4\f\4f255946cd1bedc1025e852fb1facda4e65925d6
