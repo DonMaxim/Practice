@@ -1,13 +1,29 @@
 package Task05;
 
-public class Student {
+import java.util.Objects;
+
+public class Student extends FacultyYear{
     private String name;
-    private String faculty;
-    private int year;
 
     public Student(String name, String faculty, int year) {
+        super(faculty, year);
         this.name = name;
-        this.faculty = faculty;
-        this.year = year;
+    }
+
+    @Override
+    public boolean equals(Object object) {
+        if (this == object) return true;
+        if (!(object instanceof Student student)) return false;
+        if (!super.equals(object)) return false;
+        return Objects.equals(name, student.name);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(super.hashCode(), name);
+    }
+
+    public String getName() {
+        return name;
     }
 }

@@ -4,8 +4,6 @@
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-H
-src/TrafficAnalyzer.java,1\2\12a6d551426f887df06effd7f3d30d1074e17d17
 O
 src/Task01/TrafficAnalyzer.java,7\5\75d53fb474ca671688dea9e8b319b9c8ded4c307
 I
@@ -34,9 +32,9 @@ D
 src/Task04/Book.java,d\2\d2b7ade48e1defb5706bcf5ba6a9b1d54fd2ef41
 D
 src/Task04/Main.java,4\b\4b77436e8dae82c9901305a67a5556f246cad712
-?
-src/Task05.java,1\b\1ba94ba574496cae279a7a17c46556889eaea41f
 G
 src/Task05/Student.java,e\1\e154ca0ec7a556b13a77849a399e60efa780e2d6
 D
 src/Task05/Main.java,4\f\4f255946cd1bedc1025e852fb1facda4e65925d6
+K
+src/Task05/FacultyYear.java,c\6\c659bda552227b96c2bea8075f0d3d29f870c52a
